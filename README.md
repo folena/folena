@@ -5,3 +5,5 @@ I'm currently just training some C# to use in Unity, but i'm eager to train my P
 Staying in Japan for a year to continue my Computer Engineering studies, and decide which programming language to focus.
 
 In this profile you can find some University projects and some personal projects, such as GameJams projects.
+
+(https://github-readme-stats.vercel.app/api?username=folena)](https://github.com/folena/github-readme-stats)
